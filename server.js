@@ -28,7 +28,7 @@ app
 			}
 		});
 
-		server.use("/", indexRoute);
+		// server.use("/", indexRoute);
 
 		server.use(handler);
 
